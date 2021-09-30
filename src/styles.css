@@ -1,0 +1,29 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+body {
+  background-color: #d1d5db;
+}
+.btn {
+  font-size: 1.2rem;
+  text-transform: capitalize;
+  width: 120px;
+  margin: 0.5em;
+  padding: 0.3em;
+  border-radius: 10px;
+}
+.container {
+  margin: 0 auto;
+  width: 90%;
+  max-width: 900px;
+}
+.list {
+  max-width: 50rem;
+  margin: 2rem auto;
+  padding: 1rem 2rem;
+  text-align: justify;
+  border: solid #1f2937;
+  border-width: 0.2rem;
+  border-radius: 30px;
+}
